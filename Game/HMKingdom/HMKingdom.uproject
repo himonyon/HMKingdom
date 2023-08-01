@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{913336BE-49A1-D5AA-BA9C-BC84591499A5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HMKingdom",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
